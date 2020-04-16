@@ -106,4 +106,5 @@ var purchase= function(availableStock, price, productSales, productDepartment, s
 		console.log("Yay, your purchase is complete.");
 		console.log("payment has been received in the amount of : " + totalPrice);
 availableProducts();
-		
+    });
+};
